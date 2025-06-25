@@ -10,5 +10,8 @@ function hobbies(hobby_one, hobby_two, hobby_three){
     return hobbies;
 }
 
+// console.log(hobbies('Reading', 'Traveling', 'Cooking')); // Example usage
+
+
 //Export hobbies function
 export default hobbies;
